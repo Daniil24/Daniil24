@@ -72,6 +72,14 @@ TCP/IP, DNS · DHCP · NAT · PPPoE · VLAN. Свой **VPN на WireGuard/OpenV
 - Маппинг клавиш/пэдов, **velocity-зоны**, крутилки/фейдеры → колесо/громкость/клавиши.
 - Живой индикатор октавы, **светомузыка на пэдах**, трей + хоткей, **6 языков**, один `.exe`.
 
+### 🛡 MAGIC VPN — Telegram VPN-сервис
+Собственный **VPN-сервис в Telegram**: боту пишешь — получаешь ключ и подписку.
+- Много серверов и локаций, протоколы **VLESS / Hysteria2**, обход блокировок (Cloudflare WS-CDN).
+- **Клиенты для Android и ПК**, оплата на сайте, авто-выбор локации, реклама-за-минуты, стелс-режим на Android.
+
+[![MAGIC VPN Bot](https://img.shields.io/badge/MAGIC_VPN-Telegram_бот-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/magicvpnsub_bot)
+[![Site](https://img.shields.io/badge/pay.magicvpssub.ru-7c5cff?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://pay.magicvpssub.ru/)
+
 ---
 
 ## 🧰 Стек / Tech stack
