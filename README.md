@@ -8,6 +8,10 @@
 [![Email](https://img.shields.io/badge/Email-doskin50@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:doskin50@gmail.com)
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/52i91BwNbmPpqL4KVlFeIG)
 
+<br>
+
+🌍 **Русский** · [English](README.en.md) · [Українська](README.uk.md) · [Deutsch](README.de.md) · [Español](README.es.md) · [Français](README.fr.md)
+
 </div>
 
 ---
